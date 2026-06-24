@@ -1,5 +1,5 @@
 # Recipe Website (WordPress)
-Fully responsive recipe website in PHP / WordPress using a customised theme. Privately hosted on Linux server (Nginx).
+Fully responsive recipe website in PHP / WordPress that I built from scratch using a customised theme. Privately hosted on Linux server (Nginx).
 
 [You can visit the website here.](https://rachelsrecipes.clicked.space/)
 
