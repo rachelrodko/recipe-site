@@ -3,4 +3,4 @@ Fully responsive recipe website in PHP / WordPress that I built from scratch usi
 
 [You can visit the website here.](https://rachelsrecipes.clicked.space/)
 
-Disclaimer: This is just a sample website that I have created using WordPress for testing purposes. All recipes have been sourced from The Guardian©.
+Disclaimer: This is just a fictional website that I have created using WordPress for testing purposes. All recipes have been sourced from The Guardian©.
